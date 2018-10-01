@@ -1,0 +1,15 @@
+{
+    "Functions": {
+        "testFn": {
+            "PhysicalId": {
+                "us-east-1": "cloud9-nilcustomskill-testFn-11LGE7W4LQCN0"
+            }
+        },
+        "nilcustomskill": {
+            "PhysicalId": {
+                "us-east-1": "cloud9-nilcustomskill-nilcustomskill-KJ1WVEZIV8N3"
+            }
+        }
+    },
+    "StackName": "cloud9-nilcustomskill"
+}
